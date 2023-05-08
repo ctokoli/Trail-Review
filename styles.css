@@ -18,3 +18,8 @@ h1#title {
 p#description {
     text-align: center;
 }
+
+button#submit {
+    margin-top: 10px;
+    padding: 10px;
+}
