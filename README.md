@@ -4,24 +4,16 @@
 # 📗 Table of Contents
 
 - [� Table of Contents](#-table-of-contents)
-- [📖 Hello-Microverse ](#-Hello-Microverse-)
+- [📖 Microverse-Trail ](#-Microverse-Trail-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
-    - [Key Features ](#key-features-)
-  - [💻 Getting Started ](#-getting-started-)
-    - [Prerequisites](#prerequisites)
-    - [Setup](#setup)
-    - [Install](#install)
-    - [Usage](#usage)
-    - [Run tests](#run-tests)
-    - [Deployment ](#deployment-)
   - [👤 Author ](#-author-)
   - [🔭 Future Features ](#-future-features-)
   - [🤝 Contributing ](#-contributing-)
   - [⭐️ Show your support ](#️-show-your-support-)
   - [🙏 Acknowledgments ](#-acknowledgments-)
   - [❓ FAQ ](#-faq-)
-  - [📝 License ](#-license-)
+ 
 
 # 📖 Personal Portfolio <a name="about-project"></a>
 
@@ -45,77 +37,6 @@
   </ul>
 </details>
 
-### Key Features <a name="key-features"></a>
-
-- **Responsive UI**
-- **Track CSS Errors**
-- **Track CSS Errors**
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## 💻 Getting Started <a name="getting-started"></a>
-
-To get a local copy up and running, follow these steps.
-
-### Prerequisites
-
-In order to run this project you need:
-
-- A web browser to view output e.g [Google Chrome](https://www.google.com/chrome/).
-- An IDE e.g [Visual studio code](https://code.visualstudio.com/).
-- `node` should be installed in your local machine, [node website](https://nodejs.org/en/download/).
-- Install the `npm` package manager use this [to install both node and npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm).
-- [A terminal](https://code.visualstudio.com/docs/terminal/basics).
-
-### Setup
-
-Clone this repository to your desired folder or download the Zip folder:
-
-```
-git clone https://github.com/ctokoli/Hello-Microverse.git
-```
-
-- Navigate to the location of the folder in your machine:
-
-**``you@your-Pc-name:~$ cd Hello Microverse``**
-
-### Install
-
-To install all dependencies, run:
-
-```
-npm install
-```
-
-### Usage
-
-To run the project, follow these instructions:
-
-- After Cloning this repo to your local machine.
-- Open the `index.html` in your browser.
-
-### Run tests
-
-To run tests, run the following command:
-
-- Track HTML linter errors run:
-```
-npx hint .
-```
-- Track CSS linter errors run:
-```
-npx stylelint "**/*.{css,scss}"
-```
-
-
-### Deployment <a name="deployment"></a>
-
-You can deploy this project using: GitHub Pages,
-- I used GitHub Pages to deploy my website.
-- For more information about publishing sources, see "[About GitHub pages](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages#publishing-sources-for-github-pages-sites)".
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 ## 👤 Author <a name="author"></a>
 
 👤 **Cephas, Tokoli**
@@ -128,9 +49,8 @@ You can deploy this project using: GitHub Pages,
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **Implement About us section**
-- [ ] **Implement a footer**
-- [ ] **Add a form in the footer**
+- [ ] **styles the form**
+- [ ] **fix structure issues**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -169,11 +89,5 @@ Give a ⭐️ if you like this project and how I managed to build it!
 - **Can I improve the repository, and my changes will be accepted if they are good?**
 
   - Yes please, nice ideas are welcome, please.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## 📝 License <a name="license"></a>
-
-This project is [MIT](./MIT.md) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
