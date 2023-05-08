@@ -25,14 +25,8 @@
 
 # 📖 Personal Portfolio <a name="about-project"></a>
 
-**Microverse Trail Project** 
+**Microverse Trail Project**  This is a project that was built during the microverse trail period. 
 
-
-<div align="center">
-
-  <h3><b>Microverse Trail Project</b></h3>
-
-</div>
 
 <!-- PROJECT DESCRIPTION -->   
 
