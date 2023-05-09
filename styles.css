@@ -1,0 +1,25 @@
+input {
+    display: block;
+    padding: 5px;
+    margin-bottom: 10px;
+}
+
+form#survey-form{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    margin: 0px auto;
+}
+
+h1#title {
+    text-align: center;
+}
+
+p#description {
+    text-align: center;
+}
+
+button#submit {
+    margin-top: 10px;
+    padding: 10px;
+}
